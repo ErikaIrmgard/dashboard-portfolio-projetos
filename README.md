@@ -1,5 +1,6 @@
 📊 Case de Portfólio
 Dashboard Executivo de Portfólio de Projetos
+
 🧩 Contexto do Problema
 
 Empresas que trabalham com múltiplos projetos simultaneamente enfrentam desafios como:
